@@ -1,6 +1,6 @@
 # 🎰 SLOT MACHINE – Python GUI Game with Sound
 
-A fun and simple **Slot Machine** game built using **Python and Tkinter**, featuring sound effects and jackpot logic. This project runs natively on **macOS** using the built-in `say` command for voice-based sound effects.
+A fun and simple **Slot Machine** game built using **Python**, featuring sound effects and jackpot logic. This project runs natively on **macOS** using the built-in `say` command for voice-based sound effects.
 
 ---
 
