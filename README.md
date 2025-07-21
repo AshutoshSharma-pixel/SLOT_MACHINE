@@ -14,3 +14,5 @@ A fun and simple **Slot Machine** game built using **Python and Tkinter**, featu
 - 🎨 Simple GUI with clean layout
 
 ---
+## 🖥️ Screenshots
+> Slot Machine.png
